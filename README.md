@@ -1,7 +1,7 @@
 
 <h1 align="center">Car Rental Website Project</h1>  
 
-![frame_firefox_mac_dark (1)](https://user-images.githubusercontent.com"C:\Users\sushmita\OneDrive\Desktop\Picture1.png")
+!(https://user-images.githubusercontent.com"C:\Users\sushmita\OneDrive\Desktop\Picture1.png")
 
 
 This is a project for a car rental website. It is a project for the College Academic Project.
