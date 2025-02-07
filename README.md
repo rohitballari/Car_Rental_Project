@@ -14,11 +14,6 @@ This is a project for a car rental website. It is a project for the College Mini
 - [User Story](#user-story)
 - [Admin Page](#admin-page)
 - [Project Report](#project-report)
-- [License](#license)
-- [Demo](#demo)
-- [Authors](#authors)
-- [Show your support](#show-your-support)
-
 
 ## Introduction
 
@@ -108,4 +103,4 @@ This is a project for a car rental website. It is a project for the College Mini
     - Conclusion
     - References
 - The project report is written in Microsoft Word.
-- The project repot has flow chart, ERD, and UML diagram.
+- The project reprot has flow chart, ERD, and UML diagram.
