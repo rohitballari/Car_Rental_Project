@@ -1,5 +1,6 @@
 
 <h1 align="center">Car Rental Website Project</h1>  
+![image](https://github.com/user-attachments/assets/2da7591c-4d28-43be-85a1-3f98c16314a9)
 
 
 This is a project for a car rental website. It is a project for the College Academic Project.
